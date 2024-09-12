@@ -1,4 +1,4 @@
-# 💫 About Me:
+### Hi there 👋, My Name is Janmeyjay Sharma
 🔭 I’m currently working on: Web, API, Mobile, and Network Penetration Testing.<br><br>🤝 I’m looking to collaborate on: Security research projects, vulnerability assessments, and bug bounty programs.<br><br>🌱 I’m currently learning: Advanced container security and exploring new tools for automated secure code reviews.<br><br>💬 Ask me about: Penetration Testing, Secure Code Review, OWASP Top 10, and Vulnerability Management.<br><br>⚡ Fun fact: I’ve earned Hall of Fame recognitions from companies like Unilever, Tesla, and Under Armour for my contributions to their security programs.
 
 
