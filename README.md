@@ -4,7 +4,7 @@ I am working as a Cyber Security Analyst with significant expertise in Web Appli
 
 🔭 I’m currently working on: Secure Hyperloop.<br><br>🤝 I’m looking to collaborate on: Security research projects, vulnerability assessments, and bug bounty programs.<br><br>🌱 I’m currently learning: Advanced container security and exploring new tools for automated secure code reviews.<br><br>💬 Ask me about: Penetration Testing, Secure Code Review, OWASP Top 10, and Vulnerability Management.<br><br>⚡ Fun fact: I’ve earned Hall of Fame recognitions from companies like Unilever, Tesla, and Under Armour for my contributions to their security programs.
 
-<be>
+<br>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=janmeyjaysharma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
