@@ -18,10 +18,7 @@ I am working as a Cyber Security Analyst with significant expertise in Web Appli
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=janmeyjaysharma&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/janmeyjaysharma) 
+[![](https://visitcount.itsvg.in/api?id=janmeyjaysharma&icon=0&color=0)](https://visitcount.itsvg.in)  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/janmeyjaysharma) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
